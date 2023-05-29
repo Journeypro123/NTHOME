@@ -1,0 +1,103 @@
+
+
+
+.menu{
+	background: skyblue;
+}
+.menu .navbar{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.menu .navbar li{
+	display: inline;
+}
+.menu .navbar li:hover{
+	background: black;
+}
+.menu .navbar li a{
+	text-decoration: none;
+}
+.menu .navbar li a:hover{
+	color: white;
+}
+
+
+.page1{
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+.page1 div{
+	text-align: center;
+}
+
+
+
+
+.page2{
+	background: cadetblue;
+}
+.page2 .p21{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background: powderblue;
+}
+.page2 .p21 h2{
+	color: white;
+	text-align: center;
+}
+.page2 .p21 p{
+	text-align: center;
+}
+.page2 .p21 .skills{
+	background: steelblue;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.page2 .p21 .experience{
+	background: steelblue;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.page2 .p21 .experience .p22{
+	padding-top: 50px;
+	padding-bottom: 50px
+}
+.p23 .text1{
+	text-align: center;
+	color: white;
+}
+.p23{
+	background: steelblue;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 20px;
+}
+.page2 {
+	padding-bottom: 20px;
+}
+
+
+
+
+.page3 h3{
+	text-align: center;
+	color: steelblue;
+}
+.page3 p{
+	text-align: center;
+}
+
+
+
+
+.page4{
+	background: darkblue;
+	color: steelblue;
+	text-align: center;
+}
+.page4 a{
+	text-decoration: none;
+	color: white;
+}
